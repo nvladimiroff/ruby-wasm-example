@@ -1,0 +1,15 @@
+{
+  "name": "ruby-wasm-example",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node ./esbuild.serve.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.17.10"
+  },
+  "dependencies": {
+    "@ruby/wasm-wasi": "^2.7.1",
+    "glob": "^11.0.1"
+  }
+}

@@ -1,0 +1,2 @@
+serve: node ./esbuild.serve.js
+watch: fswatch -0 ./app ./lib ./config | xargs -0 -n 1 rake pack
