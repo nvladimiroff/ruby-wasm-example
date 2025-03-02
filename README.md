@@ -2,6 +2,8 @@
 
 This is an example repo of making a single page application in Ruby via WebAssembly.
 
+<img width="980" alt="image" src="https://github.com/user-attachments/assets/b6ddc151-283c-42a8-bb47-e62fd85b9960" />
+
 ## Running it
 
 Have a running Ruby and Node installation and then run:
